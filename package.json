@@ -1,0 +1,24 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "1. Create a `server.js` file. 2. Create a package.json with `npm init -y`",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanjwatson/express-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanjwatson/express-starter/issues"
+  },
+  "homepage": "https://github.com/jonathanjwatson/express-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
